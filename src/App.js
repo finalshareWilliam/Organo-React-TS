@@ -27,7 +27,7 @@ function App() {
       corSecundaria: '#FDE7E8'
     },
     {
-      nome: 'UX e Design',
+      nome: 'UX/Design',
       corPrimaria: '#DB6EBF',
       corSecundaria: '#FAE9F5'
     },
